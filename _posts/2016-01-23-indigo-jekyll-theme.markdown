@@ -1,8 +1,8 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "'Doctorave' a Complete Doctor - Patient App"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
+date: 2018-09-30 22:10
+tag: Android
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -13,7 +13,7 @@ author: johndoe
 externalLink: false
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+![doctor_app1](https://user-images.githubusercontent.com/30223933/45686378-cff99280-bb69-11e8-86a7-2bd4b5e99f64.jpg)
 
 Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
