@@ -1,6 +1,6 @@
 # main text of home
 name: Bhavya Arora
-bio: Loves Technology
+bio: Technoholic
 # twitter summary info
 description: A blog about technology and stuff related
 
@@ -15,7 +15,7 @@ resume: true
 resume-external: false
 resume-url: "/assets/Resume.pdf"
 
-url: https://bhavya-arora.github.io/
+url: https://bhavya-arora.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -47,7 +47,7 @@ github: bhavya-arora
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: @bhavyaarora28
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: gobhavyaarora15@gmail.com
