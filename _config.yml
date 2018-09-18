@@ -33,15 +33,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/bhavy.arora.1
+facebook: bhavy.arora.1
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://in.linkedin.com/in/bhavyaarora28
+linkedin: bhavyaarora28
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: bhavya-arora
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -50,7 +50,7 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: gobhavyaarora15@gmail.com
 
 authors:
     johndoe:
