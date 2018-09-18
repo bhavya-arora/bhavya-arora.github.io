@@ -3,7 +3,7 @@ title: "'Doctorave' a Complete Doctor - Patient App"
 layout: post
 date: 2018-09-30 22:10
 tag: Android
-image: /assets/Images/top_pic.png
+image: ../assets/Images/top_pic.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
