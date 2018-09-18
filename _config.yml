@@ -1,7 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
-
+name: Bhavya Arora
+bio: Loves Technology
 # twitter summary info
 description: A blog about technology and stuff related
 
@@ -16,7 +15,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://bhavya-arora.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,12 +33,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: https://www.facebook.com/bhavy.arora.1
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: https://in.linkedin.com/in/bhavyaarora28
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
