@@ -13,7 +13,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: "/assets/Resume.pdf" download
+resume-url: "/assets/Resume.pdf"
 
 url: https://bhavya-arora.github.io/
 # your url: http://USERNAME.github.io
