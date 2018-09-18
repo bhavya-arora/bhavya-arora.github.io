@@ -15,21 +15,12 @@ externalLink: false
 
 ![image](https://user-images.githubusercontent.com/30223933/45687659-fc62de00-bb6c-11e8-9054-0834deb6d6fd.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+ Now Doctors don't have to write all the patients visiting and Appointment records on Paper, We are providing the Complete solution in which Doctors can add Records in just few clicks and it will automatically sync to Firebase, And patients dont have to worry about getting appointment, they can easily get one in just few clicks. [Link](https://play.google.com/store/apps/details?id=com.id.drapp)
 
 ---
 
 What has inside?
 
 - Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
 
 ---
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
