@@ -31,9 +31,9 @@ externalLink: false
   - Patient Enteries can be updated and deleted after adding to Database.
 - Appointments:
   - Doctors can see their all appointments that he got till that time, with all the information i.e time when a appointment is booked and what's the name of patient.
+  - Patient also can see their all Appointments with the doctors and can easily delete those.
 - Patient will see all the Doctors registered with us, and has a Verified Account.
-- Patient can see all the Information of doctor and also can book a Appointment with the Doctor with few clicks.
-- Patient also can see their all Appointments with the doctors and can easily delete those.
+- Patient can see all the Information of doctor and also can book a Appointment with the Doctor with a few clicks.
 - Provided a Search bar, so Doctors can easily search patient with his/her Name.
 - Provided a Search bar, so Patient can search about Specific Hospital with Hospital Name.
 > Note: Private chat room and In-App payment features coming soon.
