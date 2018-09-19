@@ -26,4 +26,5 @@ A Simple yet a Challenging Mathematical game to play, Which has 3 levels with Di
 - Time Mode : A Reverse Countering Game-Play. Every correct answer will add 3 seconds to the counter and every wrong answer will take away 5 seconds.
 
 - Guess Who : The most challenging mode, where the user has to guess the correct question to the given answer.
+
 ---
