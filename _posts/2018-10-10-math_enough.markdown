@@ -1,13 +1,13 @@
 ---
-title: "'Math Enough' - A Mathematical Game"
+title: "Math Enough - A challenging Mathematical Game"
 layout: post
 date: 2018-10-10 22:10
 tag: Android
-image: ../assets/images/math_enough.png
+image: ../assets/images/top_pic.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "A simple yet challenging Mathematical Game.
+description: "A Simple yet a Challenging Mathematical game to play."
 category: project
 author: Bhavya Arora
 externalLink: false
