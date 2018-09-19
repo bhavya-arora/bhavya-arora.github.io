@@ -7,9 +7,9 @@ image: ../assets/images/top_pic.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A solution for Doctors and Patients"
 category: project
-author: johndoe
+author: Bhavya Arora
 externalLink: false
 ---
 
@@ -19,8 +19,22 @@ externalLink: false
 
 ---
 
-What has inside?
+**Features:**
 
-- Gulp
-
+- Email Verification for Doctors.
+- Phone Verification for Patients.
+- Doctors can add Patients Records:
+  - Local Storage using SQlite.
+  - This Local data will automatically sync to Server( Firebase ), when connect to internet.
+- Click the picture of Patient, so there will be no confusion with patient Records.
+- Updation of Entries:
+  - Patient Enteries can be updated and deleted after adding to Database.
+- Appointments:
+  - Doctors can see their all appointments that he got till that time, with all the information i.e time when a appointment is booked and what's the name of patient.
+- Patient will see all the Doctors registered with us, and has a Verified Account.
+- Patient can see all the Information of doctor and also can book a Appointment with the Doctor with few clicks.
+- Patient also can see their all Appointments with the doctors and can easily delete those.
+- Provided a Search bar, so Doctors can easily search patient with his/her Name.
+- Provided a Search bar, so Patient can search about Specific Hospital with Hospital Name.
+> Note: Private chat room and In-App payment features coming soon.
 ---
