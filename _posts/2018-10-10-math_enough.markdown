@@ -1,9 +1,9 @@
 ---
-title: "Math Enough - A challenging Mathematical Game"
+title: "'Math Enough' - A challenging Mathematical Game"
 layout: post
 date: 2018-10-10 22:10
 tag: Android
-image: ../assets/images/top_pic.png
+image: ../assets/images/math_enough.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
