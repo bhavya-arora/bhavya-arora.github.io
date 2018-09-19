@@ -16,7 +16,7 @@ World Problems with the help of IT,and learning new things everyday.</p>
 	<li>Firebase</li>
 	<li>Python</li>
 	<li>Git/GitHub</li>
-	<li>Html - Css - Css3 - Javasript</li>
+	<li>Html - Css - Css3 - Javascript</li>
 </ul>
 
 <h2>Projects</h2>
