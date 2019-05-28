@@ -14,6 +14,7 @@ World Problems with the help of IT,and learning new things everyday.</p>
 	<li>Android</li>
 	<li>NodeJS</li>
 	<li>Firebase</li>
+	<li>SQL</li>
 	<li>Python</li>
 	<li>Git/GitHub</li>
 	<li>Html - Css - Css3 - Javascript</li>
