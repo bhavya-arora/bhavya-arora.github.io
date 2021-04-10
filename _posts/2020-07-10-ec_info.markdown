@@ -1,5 +1,5 @@
 ---
-title: "7th Economic Census Android App"
+title: "'7th Economic Census' - Android App"
 layout: post
 date: 2019-07-10 22:10
 tag: Android
