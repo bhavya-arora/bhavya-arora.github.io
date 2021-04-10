@@ -1,7 +1,7 @@
 ---
 title: "'7th Economic Census' - Support Portal"
 layout: post
-date: 2020-01-10 22:10
+date: 2020-07-10 22:10
 tag: Node.JS, Html, CSS, Jquery
 image: ../assets/images/economic_census_logo.png
 headerImage: true
