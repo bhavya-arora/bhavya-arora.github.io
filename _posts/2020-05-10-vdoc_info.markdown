@@ -13,9 +13,7 @@ author: Bhavya Arora
 externalLink: false
 ---
 
-![Home Screen Two](https://user-images.githubusercontent.com/30223933/114264045-41d6a780-9a06-11eb-99c2-e603287dc97e.png)
-
-![Mechanic Detail](https://user-images.githubusercontent.com/30223933/114264046-456a2e80-9a06-11eb-92ef-410bd8788a7b.png)
+![Home Screen Two](https://user-images.githubusercontent.com/30223933/114264045-41d6a780-9a06-11eb-99c2-e603287dc97e.png) ![Mechanic Detail](https://user-images.githubusercontent.com/30223933/114264046-456a2e80-9a06-11eb-92ef-410bd8788a7b.png)
 
 A Automobile Platform where a user can easily book their near-by mechanics with ratings.
 
