@@ -20,7 +20,7 @@ externalLink: false
 
 Economic Census App Nav            |  Economic Census App Splash
 :-------------------------:|:-------------------------:
-![ec_nav](https://user-images.githubusercontent.com/30223933/114269178-fe3e6680-9a22-11eb-900d-e517d68b7c91.png)  |  ![ec_splash](https://user-images.githubusercontent.com/30223933/114269180-00a0c080-9a23-11eb-9007-d4f0c29cfc25.jpeg)
+<img src="https://user-images.githubusercontent.com/30223933/114269178-fe3e6680-9a22-11eb-900d-e517d68b7c91.png" width=200/> | <img src="https://user-images.githubusercontent.com/30223933/114269180-00a0c080-9a23-11eb-9007-d4f0c29cfc25.jpeg" width=200/>
 
 Government of India's 7th Economic Census is a first time full digital
 exercise of data collection of households which was conducted with a target
